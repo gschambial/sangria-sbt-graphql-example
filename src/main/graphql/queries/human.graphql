@@ -1,0 +1,7 @@
+query {
+    humans{
+        id
+        name
+        homePlanet
+    }
+}
