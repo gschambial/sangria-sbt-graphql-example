@@ -1,4 +1,4 @@
-query {
+query AllHumans {
     humans{
         id
         name
